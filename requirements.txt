@@ -1,0 +1,6 @@
+pandas
+snownlp
+jieba
+pyecharts
+stylecloud
+seaborn
